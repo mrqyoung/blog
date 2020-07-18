@@ -1,0 +1,11 @@
+# First Post
+----
+
+```
+Alice is a feminine given name used primarily in English and French. It is a form of the Old French name Alis (older Alais), short form of Adelais, which is derivation from the Old High German Adalhaidis (see Adelaide), from the Proto-Germanic words *aþala-, meaning "noble" and *haidu-, meaning "appearance; kind" (compare German Adel "nobility", edel "noble", nominalizing suffix -heit "-hood"), hence "of noble character or rank, of nobility".[citation needed] Alaïs is the Old French form of the name; Alys of Vexin was also known as Alaïs.[citation needed] 
+Alice was the most popular female baby name in Sweden in 2009 and has been among the top 10 names given to girls for the past five years.[1] The name ranks in the top 100 most popular names for baby girls in Australia, Belgium, France, Canada, Ireland, Scotland, England and Wales, and Northern Ireland. In England and Wales it was ranked the 24th most popular name in 2015.[2] It ranked as the 172nd most popular name for baby girls born in the United States in 2010.[3] 
+The name was most popular in the US in the Victorian era and at the turn of the 20th century.[citation needed] It has been popularized by Alice in Wonderland, by Lewis Carroll.[citation needed] It was also popular in the Victorian era due to The Princess Alice, a daughter of Queen Victoria.[citation needed] In the US, Alice Roosevelt Longworth, daughter of Theodore Roosevelt, was occasionally known as "Princess Alice" in the press and inspired a song called Alice Blue Gown.[citation needed] In recent years in the US, the variants Alicia, Alison, and a short form, Allie, have been more popular names: in 2010, Alison was the 38th most popular; Alicia was the 220th most popular, and Allie was the 189th most popular.[citation needed] All three names have multiple spelling variants which are also well-used. Alyssa, the 20th most popular in 2010, may sound like a variant, but it is historically of different origin, from the flower alyssum.[citation needed] 
+Like Adelaide, Alice's name day is 16 December, for Adelaide of Italy. 
+```
+
+[https://en.wikipedia.org/wiki/Alice_(given_name)](https://en.wikipedia.org/wiki/Alice_(given_name))
